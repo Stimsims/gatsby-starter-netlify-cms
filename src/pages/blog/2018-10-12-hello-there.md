@@ -6,6 +6,6 @@ description: My first UI assisted blog post!
 tags:
   - ''
 ---
-Jim Sterling is a bit catty. 
+Jim Sterling is a bit catty. And loclhost helped
 
-![](/img/bayes-theorem.png)
+![null](/img/bayes-theorem.png)
